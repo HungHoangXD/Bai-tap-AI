@@ -35,3 +35,7 @@ SHOWDOWN_DSTUMP_TEST_ACCURACY_STDDEV: 0.07659258664480613
 SHOWDOWN_DT3_TEST_ACCURACY_MEAN: 0.7587108262108263
 # What was the standard deviation of the 3-level decision tree's accuracies?  (only your final answer)
 SHOWDOWN_DT3_TEST_ACCURACY_STDDEV: 0.07937455355382414
+
+![image](https://github.com/HungHoangXD/Bai-tap-AI/assets/115523272/9ca799c0-522d-4d64-9dda-571e45a8a416)
+
+
